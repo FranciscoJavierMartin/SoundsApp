@@ -1,4 +1,4 @@
-This application is created for practise purpouse.
+# This application is created for practise purpouse.
 
 This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
 
